@@ -1,1 +1,1 @@
-[testlink2](README.md)
+[testlink2](../README.md)
